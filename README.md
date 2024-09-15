@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=owenseunglee&label=Profile%20views&color=0e75b6&style=flat" alt="owenseunglee" /> </p>
 <img align="right alt="coding image" width="400" src="https://giphy.com/embed/11jacPItBsJDLa">
 
-- 👨‍💻 All of my projects are available at [owenseungkyupark.netlify.app](owenseungkyupark.netlify.app)
+- 👨‍💻 All of my projects are available at [owenseungkyupark.netlify.app](https://owenseungkyupark.netlify.app)
 
 - 📫 How to reach me **owenseunglee@gmail.com**
 
