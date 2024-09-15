@@ -1,10 +1,10 @@
-<h1 align="center">Hi 👋, I'm Owen Lee</h1>
-<h3 align="center">A passionate computer science student</h3>
+<h1 align="center">Hi 👋, I'm Owen Park</h1>
+<h3 align="center">A passionate computer science student currently a Senior year student @Oregon State University</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=owenseunglee&label=Profile%20views&color=0e75b6&style=flat" alt="owenseunglee" /> </p>
 <img align="right alt="coding image" width="400" src="https://giphy.com/embed/11jacPItBsJDLa">
 
-- 👨‍💻 All of my projects are available at [owenseunglee.netlify.app](owenseunglee.netlify.app)
+- 👨‍💻 All of my projects are available at [owenseungkyupark.netlify.app](owenseungkyupark.netlify.app)
 
 - 📫 How to reach me **owenseunglee@gmail.com**
 
